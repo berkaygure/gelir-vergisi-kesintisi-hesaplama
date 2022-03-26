@@ -1,6 +1,8 @@
-# 2021 Yılı İçin Gelir Vergisi Kesintisi Hazırlama
+# 2021 Yılı İçin Gelir Vergisi Kesintisi Hesaplama
 
-Aşağıdaki Formüle Göre Yıllık Gelir Vergisi Kesintisini Hesaplar
+https://gelir-vergisi-kesintisi-hesaplama.netlify.app/
+
+Aşağıdaki Hesaplama Yöntemine Göre Yıllık Gelir Vergisi Kesintisini Hesaplar.
 
 <ul>
   <li>24.000 TL'ye kadar %15</li>
